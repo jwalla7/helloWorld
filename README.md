@@ -1,7 +1,8 @@
-# helloWorld
-Morning Activity
+
+<a href="" target="_blank" src=" https://jwalla7.github.io/helloWorld/"><strong>helloWorld</strong><a/>
+  <br>
+_Generation USA Morning Activity
 <br>
-<a href="" target="_blank" src=" https://jwalla7.github.io/helloWorld/">Here<a/>  Link:  https://jwalla7.github.io/helloWorld/
 
 ## For this activity your goal is to...
 1. Create new github repo
