@@ -8,7 +8,7 @@
     justify-content: center;
   }
   
-  .typing-demo {
+  .typing-demo h1 {
     color: #ccc6ba;
     width: 11ch;
     animation: typing 1.5s steps(11), blink .5s step-end infinite alternate;
