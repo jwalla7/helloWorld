@@ -1,20 +1,25 @@
+
 .wrapper {
+    background-color: rgba(5, 5, 12, 1);
     height: 100vh;
-    /*This part is important for centering*/
     display: flex;
     align-items: center;
     justify-content: center;
   }
   
   .typing-demo {
-    width: 22ch;
-    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+    color: #ccc6ba;
+    width: 11ch;
+    animation: typing 1.5s steps(11), blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid;
-    font-family: monospace;
-    font-size: 2em;
+    text-align: center;
+    font-family: 'Bodoni Moda', monospace;
+    letter-spacing: .13em;
+    font-size: 125px;
   }
+  
   
   @keyframes typing {
     from {
